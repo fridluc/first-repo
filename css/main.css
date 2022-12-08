@@ -1,8 +1,11 @@
 body {
-  background: black;
+  background: rgb(187, 36, 36);
   color: white;
 }
 
 h1 {
-  color: yellow;
+  color: rgb(4, 3, 15);
+}
+p {
+  color: rgb(255, 255, 255);
 }
